@@ -1,4 +1,4 @@
-# visa_visit_alert
+# [visa_visit_alert](https://www.ch-edoc-reservation.admin.ch/#/session?token=4VLdRTtJ&locale=en-US)
 tool for finding an slot for visa
 does not auto book for you, you still need to manually book 
 - edit the python code to add your trip_date and sessions token
